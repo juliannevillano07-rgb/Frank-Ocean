@@ -42,13 +42,13 @@
 .album img {
 	width: 35%;
 	height: auto;
-	background-image: url('img/frank-album.jpg');
+	background-image: url('frank-album.jpg');
 }
 
 .artist img {
 	width: 30%;
 	height: auto;
-	background-image: url('img/frank-artist.jpg');
+	background-image: url('frank-artist.jpg');
 }
 .song img{
 	width: 25%;
@@ -73,7 +73,7 @@ a:link{
 }
 
 body{
-	background-image: url('img/frank-bg.jpg');
+	background-image: url('frank-bg.jpg');
 	background-size:50% 50%;
 	background-repeat: repeat;
 	margin: 0;
@@ -120,4 +120,5 @@ p{
 	margin: auto;
 	margin-top: 30px;
 	margin-bottom: 30px;
+
 }
